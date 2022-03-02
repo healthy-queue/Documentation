@@ -1,15 +1,15 @@
-#### Project Description
+### Project Description
 
 An app that can be used by front desk triage personnel and providers of an emergency department to accept and assign patients into queues based on priority of their symptoms.
 
-#### Team members
+### Team members
 
 - Lorenzo Ortega
 - Ayrat Gimranov
 - Jeremy Brazell
 - Tom McGuire
 
-#### Deployments (in progress)
+### Deployments (in progress)
 
 🏠 GitHub Organization Home
 
@@ -17,19 +17,17 @@ An app that can be used by front desk triage personnel and providers of an emerg
 
 💻 Backend
 
-#### Wireframes (in progress)
+### Wireframes
 
-in progress
+![](./img/wireframe1.png)
+![](./img/wireframe2.png)
+![](./img/wireframe3.png)
 
-#### Domain Modeling (in progress)
-
-in progress
-
-#### Software Requirements
+### Software Requirements
 
 [click here](./requirements.md) for software requirements
 
-#### User Stories
+### User Stories
 
 User Stories:
 
@@ -55,7 +53,11 @@ User Stories:
   - As an admin I would like to be able to delete a user. 
   - As an admin I would like to be able to see statistics for each doctor / nurse (stretch).
 
-#### Database Schema Diagram (in progress)
+### Domain Modeling (in progress)
+
+in progress
+
+### Database Schema Diagram (in progress)
 
 - create a diagram of all your application data models, each in it’s own collection (or table)
 
@@ -70,5 +72,5 @@ User Stories:
 1. The name of each property stored in the collection.
 2. The required data type.
 3. An indication if this collection is associated with another collection.
-   
+
 - include explanation of each data model and it’s responsibility in the application
